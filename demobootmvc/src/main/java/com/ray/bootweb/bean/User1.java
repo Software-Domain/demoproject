@@ -19,5 +19,10 @@ public class User1 {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+	public User1(int regno, String name) {
+		super();
+		this.regno = regno;
+		this.name = name;
+	}
 	
 }
